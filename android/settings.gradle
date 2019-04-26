@@ -1,0 +1,3 @@
+rootProject.name = 'hhapp_2749'
+
+include ':app'
